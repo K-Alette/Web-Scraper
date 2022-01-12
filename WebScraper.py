@@ -1,6 +1,4 @@
 #Kodi Lein
-#CYBR-260-45
-#8/20/2021
 #This program is a web scraper that pulls job data from
 #indeed.com and parses it. It then writes the information
 #into a CSV file so the user can view it.
